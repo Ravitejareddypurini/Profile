@@ -71,7 +71,7 @@ function App() {
              <li> Material-UI</li>
              <li> Sass</li>
              <li> Tailwind</li>
-             <li>Redux</li>
+            <li>Reduxxx</li>
           
             </ul>
           </div>
